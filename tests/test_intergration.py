@@ -21,7 +21,7 @@ def strategy():
 
 def test_integration(env, strategy):
     """Test de strategie over meerdere episodes."""
-    num_episodes = 10
+    num_episodes = 1000
     total_reward = 0
 
     for episode in range(num_episodes):
