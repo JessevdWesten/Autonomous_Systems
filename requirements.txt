@@ -1,5 +1,5 @@
 # Core dependencies
-gymnasium>=0.28.1  # Voor de Blackjack environment
+gymnasium>=0.28.1  # Voor de Blackjack environmentt
 numpy>=1.21.0      # Voor eventuele berekeningen
 
 # Testing frameworks
